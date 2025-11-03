@@ -155,9 +155,3 @@ npm start
 
 ## Feedback
 Feel free to file an issue if you come across any bugs
-
-### Made at:
-
-<p align="center">
-<img alt="MNNIT" width="112px" src="http://www.mnnit.ac.in/institutelogo/MNNIT%20(logo)png.png" />
-</p>
